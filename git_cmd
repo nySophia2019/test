@@ -1,0 +1,20 @@
+ /d/WorkSpace/Python/SalesDashboard
+
+$ git init
+
+$ git status
+
+# (use "git add <file>..." to include in what will be committed)
+
+$ git add .
+
+$ git commit -m "first commit"
+
+$ git remote add demo https://github.com/nySophia2019/demo.git
+
+$ git push -u demo main
+
+$ git push -u demo master
+
+
+
